@@ -35,6 +35,10 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
+
+
 git clone https://github.com/MehranKheiri/azgreen-website.git
+
 cd ecodash-lite-corporation-azgreenwebsite
+
 npm run dev
