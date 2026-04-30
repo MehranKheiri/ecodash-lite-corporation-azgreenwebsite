@@ -37,7 +37,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 
 
-git clone https://github.com/MehranKheiri/azgreen-website.git
+git clone https://github.com/MehranKheiri/ecodash-lite-corporation-azgreenwebsite.git
 
 cd ecodash-lite-corporation-azgreenwebsite
 
