@@ -43,5 +43,3 @@ git clone https://github.com/MehranKheiri/ecodash-lite-corporation-azgreenwebsit
 cd ecodash-lite-corporation-azgreenwebsite
 
 npm run dev
-
-ecodash-lite-corporation-azgreenwebsite
