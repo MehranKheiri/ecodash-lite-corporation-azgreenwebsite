@@ -6,7 +6,7 @@ function slugify(str) {
   return str.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '')
 }
 
-const ADMIN_PASSWORD = process.env.NEXT_PUBLIC_ADMIN_PASSWORD || 'azgreen2024admin'
+const ADMIN_PASSWORD = process.env.ADMIN_PASSWORD
 
 const emptyForm = {
   title: '',
